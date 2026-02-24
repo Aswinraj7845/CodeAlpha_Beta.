@@ -1,2 +1,2 @@
 # CodeAlpha_Beta.
-The Hangman program is a simple text-based word guessing game developed using Python. In this game, the computer randomly selects a word from a predefined list of five words. The player must guess the word one letter at a time.
+The Hangman program is a simple console-based word guessing game developed using Python. The main objective of the game is to allow the user to guess a hidden word one letter at a time within a limited number of attempts. The program randomly selects a word from a predefined list of five words using the random module. The selected word remains hidden from the player and is represented by underscores corresponding to each letter in the word.
